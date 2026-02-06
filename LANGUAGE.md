@@ -43,6 +43,14 @@ SHOP       = DISTRIBUTES COIN
 
 ---
 
+## Runtime
+
+```
+~/.canonic  → shared (device-level)
+```
+
+---
+
 ## Constraints
 
 ```
