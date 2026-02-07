@@ -12,9 +12,18 @@ contact: enterprise@canonic.org
 
 ## Axiom
 
-**PEOPLE govern. MACHINE executes.**
+**PEOPLE govern. MACHINE executes. DESIGN speaks STRUCTURE.**
 
-The Linux Foundation of CANONIC. Stewards of LANGUAGE. Guardians of governance.
+```
+LANGUAGE/
+├── CANON.md      — D: declaration (this file)
+├── LANGUAGE.md   — LANG: primitives + templates
+├── DESIGN.md     — S: visual expression of LANGUAGE
+├── VOCAB.md      — LANG: controlled vocabulary
+├── ROADMAP.md    — T: temporal evolution
+├── LEARNING.md   — L: federated patterns
+└── EVIDENCE/     — E: proof
+```
 
 ---
 
@@ -350,7 +359,7 @@ CHAPTER  = 6 SECTIONS (AXIOM + STORY + THEORY + PRACTICE + EVIDENCE + BRIDGE)
 
 1. Governance creates value. Validated work is worth more than speculation.
 2. 8 questions cover all governance. Answer them all, achieve COMPLIANT.
-3. Everything composes from three primitives: CHAT, COIN, SHOP.
+3. Everything composes from three primitives: COIN, CHAT, EVO.
 4. Beliefs must be explicit. Write them in CANON.md or they don't exist.
 5. Validation must be automated. If you can't test it, you can't enforce it.
 
@@ -372,11 +381,11 @@ A belief is VALID when:
 
 | Destination | Path | Description |
 |-------------|------|-------------|
-| MAGIC | canonic-magic/FRONTEND/ | CANONIC ∩ LANGUAGE ∩ LEARNING |
-| SHOP | canonic-shop/FRONTEND/ | Commerce surface |
-| OPS | canonic-operations/FRONTEND/ | Operations surface |
-| RESERVES | canonic-reserves/FRONTEND/ | Financial reserves |
-| SECTORS | canonic-sectors/FRONTEND/ | Sector verticals |
+| MAGIC | canonic-magic/APPLE/ | CANONIC ∩ LANGUAGE ∩ LEARNING |
+| SHOP | canonic-shop/ | Commerce surface (planned) |
+| OPS | canonic-operations/ | Operations surface (planned) |
+| RESERVES | canonic-reserves/ | Financial reserves (planned) |
+| SECTORS | canonic-sectors/ | Sector verticals (planned) |
 | FOUNDATION | ./ (self) | Governance specs |
 
 ### Foundation Hub Cards

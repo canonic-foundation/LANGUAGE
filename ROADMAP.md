@@ -6,10 +6,12 @@
 - LEARNING framework defined
 - All 13 domains inherit FOUNDATION
 - Governance model: PEOPLE govern. MACHINE executes.
+- VOCAB.md populated (66 canonical terms)
+- Vocabulary drift detection (check_vocab_drift.sh — automated VOCAB.md ↔ code check)
+- LANGUAGE self-compliance check (check_compliance.sh — 8-dimension validation)
 
 ## Next
 
-- Populate VOCAB.md with canonical term registry
 - Formalize constraint inheritance conflict resolution
 - Publish LANGUAGE spec to arXiv
 

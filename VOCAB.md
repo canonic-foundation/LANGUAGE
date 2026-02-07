@@ -22,8 +22,8 @@
 | RELATIONS | Governance primitive; stakeholder mappings; "Who's involved?" |
 | OPERATIONS | Governance primitive; workflow definitions; "How does it work?" |
 | STRUCTURE | Governance primitive; architectural schemas; "What shape is it?" |
-| LEARNING (primitive) | Governance primitive; pattern recognition; "What patterns emerge?" |
-| LANGUAGE (primitive) | Governance primitive; expression protocol; "How is it expressed?" |
+| L | Governance primitive; pattern recognition; "What patterns emerge?" |
+| LANG | Governance primitive; expression protocol; "How is it expressed?" |
 | VALID | Full validation; all governance primitives satisfied |
 | BLOCKED | No validation |
 | BASE | $1.55T; validated work valuation, not speculation |
@@ -39,15 +39,16 @@
 | LAW CHAT | Legal review service |
 | IDIOM | Sector-specific governance pattern; same LANGUAGE, different vocabulary |
 | VERTICAL | Domain implementation; programming or sector idiom |
-| EVO | Runtime reader; reads LANGUAGE, applies, nothing else |
+| COIN | Composing primitive; service = SHOP |
+| CHAT | Composing primitive; service = TALK |
+| EVO | Composing primitive; service = EVOLUTION |
+| SHOP | Service of COIN; distributes COIN; COIN → SHOP → WORK |
+| TALK | Service of CHAT; validated communication |
+| EVOLUTION | Service of EVO; COVERAGE + ROADMAP |
 | DAO | Decentralized autonomous organization; future governance of FOUNDATION |
-| COIN | Equals WORK; value token |
 | VITAE | ORG identity; USER = ORG = VITAE |
-| CHAT | Communication primitive; one of three composing primitives |
-| SHOP | Commerce primitive; one of three composing primitives |
 | THE MAGIC SERIES | 8 books teaching governance through 8 questions |
 | AXIOM | One sentence truth; absolute declaration |
-| BELIEF | Testable assertion declared in CANON.md |
 | BOUNDARY | Non-negotiable limit |
 | INHERITANCE | Beliefs and constraints from parent scope |
 | CLOSURE | Access level; Books 01 + 06 |
@@ -63,6 +64,15 @@
 | LEDGER | Immutable record; timestamped audit trail |
 | FFI | Foreign Function Interface; how wrappers call the runtime |
 | WRAPPER | Thin language binding to the runtime; no logic, just interface |
+| MAGIC | 255-bit governance runtime; D+E+T+R+O+S+L+LANG = 255 |
+| IDF | Invention Disclosure Format; hash-linked chain record |
+| GRADIENT | Delta between previous and current bits; measures governance change |
+| GENESIS | First IDF in a chain; origin block |
+| TIER | Access level derived from bits; CLOSURE → COMMUNITY → BUSINESS → ENTERPRISE → AGENT → MAGIC |
+| DIMENSION | One of 8 governance axes; each is a single bit in the 255-bit field |
+| GOVERNANCE | The protocol; rules + enforcement + validation |
+| PITCH | Composable copilot; present |
+| VIA | Composable copilot; deliver |
 
 ---
 
