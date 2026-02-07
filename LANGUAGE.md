@@ -38,6 +38,31 @@ EVO   → evolution (grows COIN)
 ```
 VAULT  → stores COIN (private)
 SHOP   → distributes COIN (public)
+USER   → scopes COIN (relational)
+```
+
+---
+
+## Lifecycle (LIFE)
+
+```
+LIFE = the USER lifecycle. How ARTIFACTS move through SCOPES.
+
+ONBOARD → WORK → ARTIFACT → SCOPE → COIN
+
+1. ONBOARD    USER enters. VITAE created. INTELLIGENCE AXIOMS established.
+2. WORK       USER produces ARTIFACTS (git commits = evidence).
+3. ARTIFACT   The primitive. A file, a chapter, a patent, a deal.
+4. SCOPE      INTELLIGENCE determines visibility:
+              ├── VAULT/  → PRIVATE (only owner sees)
+              ├── USER/   → SCOPED (shared via INTELLIGENCE AXIOMS)
+              └── SHOP/   → PUBLIC (COIN minted — world sees)
+5. COIN       VAULT → SHOP = MINT. WORK becomes value.
+
+FIAT enters through SHOP. VAULT = no FIAT. USER = no FIAT. SHOP = FIAT.
+ATTENTION determines demand. SCOPE determines ATTENTION.
+INTELLIGENCE determines SCOPE. Therefore: INTELLIGENCE determines value.
+The model is the appraiser. Rare data > common data. Edge cases > bulk.
 ```
 
 ---
@@ -47,15 +72,22 @@ SHOP   → distributes COIN (public)
 ```
 {SCOPE}    = SPEC
 COIN       = WORK
+COIN:FIAT  = SHOP_PRICE × ATTENTION
+COIN:DATA  = 1/frequency × Δ(performance metric)
+ATTENTION  = f(SCOPE) — VAULT=0, USER=scoped, SHOP=public
 CHAT       = GENERATES COIN
 EVO        = GROWS COIN
+LIFE       = LIFECYCLE (ONBOARD → WORK → ARTIFACT → SCOPE → COIN)
+ARTIFACT   = PRIMITIVE (the thing)
+SCOPE      = VAULT | USER | SHOP
 COMPLIANCE = COVERAGE + ROADMAP
 EVOLUTION  = EPOCHS
 LEARNINGS  = GRADIENTS
 IDF        = Immutable Disclosure Fixture
 EVIDENCE   = IDFs
-VAULT      = STORES COIN
-SHOP       = DISTRIBUTES COIN
+VAULT      = STORES COIN (private)
+SHOP       = DISTRIBUTES COIN (public)
+USER       = SCOPES COIN (relational)
 ```
 
 ---
@@ -63,18 +95,18 @@ SHOP       = DISTRIBUTES COIN
 ## 255 Bits
 
 ```
-Bit   Hex   Dimension    Check            Question
-─── ───── ─────────── ──────────────── ─────────────────────────
-  1  0x01  DECLARATION  CANON.md         What do you believe?
-  2  0x02  EVIDENCE     IDF exists       What proves it?
-  4  0x04  TEMPORAL     ROADMAP.md       When did it happen?
-  8  0x08  RELATIONAL   inherits:        Who is involved?
- 16  0x10  OPERATIONAL  MUST/SHOULD      How does it work?
- 32  0x20  STRUCTURAL   ## Axiom         What shape is it?
- 64  0x40  LEARNING     LEARNING.md      What patterns emerge?
-128  0x80  LANGUAGE     VOCAB.md         How is it expressed?
-─── ───── ─────────── ──────────────── ─────────────────────────
-255  0xFF  MAGIC        all              all 8 answered
+8 questions. 255 = complete. MAGIC validates.
+
+1. What do you believe?
+2. What proves it?
+3. When did it happen?
+4. Who is involved?
+5. How does it work?
+6. What shape is it?
+7. What patterns emerge?
+8. How is it expressed?
+
+All 8 answered = 255 = MAGIC
 ```
 
 ---
@@ -240,6 +272,52 @@ Cite: {source}
 ---
 
 *EVOLUTION | {SCOPE} | LEARNINGS*
+```
+
+### LIFE (Lifecycle)
+
+```
+# {USER} — LIFECYCLE
+
+inherits: LANGUAGE/LIFE
+
+---
+
+## ONBOARDING
+
+VITAE created: {date}
+INTELLIGENCE AXIOMS: {shared axioms with network}
+
+---
+
+## WORK
+
+| ARTIFACT | SCOPE | COIN | Date |
+|----------|-------|------|------|
+| {artifact} | VAULT | potential | {date} |
+| {artifact} | USER/{first-last} | scoped | {date} |
+| {artifact} | SHOP | minted | {date} |
+
+---
+
+## SCOPE
+
+VAULT/:  {count} artifacts (private)
+USER/:   {count} artifacts (scoped by INTELLIGENCE)
+SHOP/:   {count} artifacts (public)
+
+---
+
+## COIN
+
+| Movement | ARTIFACT | From | To | Value |
+|----------|----------|------|----|-------|
+| MINT | {artifact} | VAULT | SHOP | realized |
+| SCOPE | {artifact} | VAULT | USER | relational |
+
+---
+
+*LIFE | {USER} | LIFECYCLE*
 ```
 
 ---
