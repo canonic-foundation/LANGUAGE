@@ -4,9 +4,9 @@
 
 ## Paradigm
 
-**Introspection + Inheritance.**
+**CANONIC is a programming paradigm for governance.**
 
-A learning language that learns itself.
+Introspection + Inheritance.
 
 ---
 
