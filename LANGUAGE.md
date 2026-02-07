@@ -23,7 +23,7 @@ README.md = interface (what people see)
 ## SPEC
 
 ```
-EVOLUTION.md = specification of governance
+{SCOPE} = TRIAD
 ```
 
 ---
@@ -31,7 +31,7 @@ EVOLUTION.md = specification of governance
 ## LANGUAGE = TRIAD + SPEC
 
 ```
-4 files. Nothing else.
+3 files. Nothing else.
 Everything else = FOUNDATION MAGIC.
 ```
 
