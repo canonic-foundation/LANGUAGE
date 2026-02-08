@@ -359,7 +359,7 @@ CHAPTER  = 6 SECTIONS (AXIOM + STORY + THEORY + PRACTICE + EVIDENCE + BRIDGE)
 
 1. Governance creates value. Validated work is worth more than speculation.
 2. 8 questions cover all governance. Answer them all, achieve COMPLIANT.
-3. Everything composes from three primitives: COIN, CHAT, EVO.
+3. Everything composes from three primitives: COIN, CHAT, INTEL.
 4. Beliefs must be explicit. Write them in CANON.md or they don't exist.
 5. Validation must be automated. If you can't test it, you can't enforce it.
 
@@ -405,7 +405,7 @@ A belief is VALID when:
 |---------|-------------|
 | Validation as a Service | Input -> MAGIC -> Output. Blackbox validation. |
 | IP Protected | Guard the secret. Spread the MAGIC. |
-| Pure Runtime | EVO reads LANGUAGE. Applies. Nothing else. |
+| Pure Runtime | INTEL reads LANGUAGE. Applies. Nothing else. |
 | Distributed Ready | FOUNDATION -> DAO. Decentralized governance. |
 
 ---

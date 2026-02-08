@@ -41,10 +41,11 @@
 | VERTICAL | Domain implementation; programming or sector idiom |
 | COIN | Composing primitive; service = SHOP |
 | CHAT | Composing primitive; service = TALK |
-| EVO | Composing primitive; service = EVOLUTION |
+| INTEL | Composing primitive; D+E+T+R = what you KNOW; service = INTELLIGENCE |
 | SHOP | Service of COIN; distributes COIN; COIN → SHOP → WORK |
-| TALK | Service of CHAT; validated communication |
-| EVOLUTION | Service of EVO; COVERAGE + ROADMAP |
+| TALK | Service of CHAT; validated communication; CHAT + INTEL |
+| INTELLIGENCE | Service of INTEL; reads, validates, learns; EVOLUTION serves scopes |
+| EVOLUTION | INTELLIGENCE service; epoch history, galaxy timeline |
 | DAO | Decentralized autonomous organization; future governance of FOUNDATION |
 | VITAE | ORG identity; USER = ORG = VITAE |
 | THE MAGIC SERIES | 8 books teaching governance through 8 questions |

@@ -150,7 +150,7 @@ Compliance tier determines text color, bar fill, and ring stroke.
 |--------|-------|-------|
 | Compliance pass | `#00ff88` | Bit ON glow. text-shadow 8px. |
 | Compliance fail | `var(--dim)` | Bit OFF. opacity 0.4. |
-| Active focus | `#2997ff` | EVO dot. System messages. |
+| Active focus | `#2997ff` | INTEL dot. System messages. |
 | User action | `rgba(0,255,136,0.08)` | User chat bubble background. |
 | System response | `var(--glass)` | AI chat bubble background. |
 
@@ -173,7 +173,7 @@ Compliance tier determines text color, bar fill, and ring stroke.
 └─────────────────┘
 ```
 
-The brand gradient `linear-gradient(135deg, #00ff88, #2997ff)` is the MAGIC signature. It appears on the wordmark and the EVO year display. Use `-webkit-background-clip:text` to apply.
+The brand gradient `linear-gradient(135deg, #00ff88, #2997ff)` is the MAGIC signature. It appears on the wordmark and the INTEL year display. Use `-webkit-background-clip:text` to apply.
 
 ---
 
@@ -209,7 +209,7 @@ barnesHut:
   damping: 0.85
   stabilization: 300 iterations
 
-EVO mode (expanded):
+INTEL mode (expanded):
   gravitationalConstant: -12000
   centralGravity: 0.2
   springLength: 350
@@ -342,13 +342,13 @@ Glyph: 24px emoji. Label: Mono 7px. Level badge: Mono 7px, colored by tier.
 
 | Position | Item | Glyph | Type |
 |----------|------|-------|------|
-| 1 | EVO | ▶ | Transport control |
+| 1 | INTEL | ▶ | Transport control |
 | -- | separator | -- | 1px border divider |
 | 2+ | FLAGSHIPS | emoji | Service launchers |
 
 ---
 
-## EVO Timeline
+## INTEL Timeline
 
 ### HUD (bottom-right)
 
@@ -371,7 +371,7 @@ XP counter: Mono 16px, #00ff88.
 | Current | #2997ff | #2997ff | 0 0 10px #2997ff |
 | Hover | -- | --fg | scale(1.3) |
 
-Animation: `evo-pulse` 1.5s infinite (opacity 1→0.5→1)
+Animation: `intel-pulse` 1.5s infinite (opacity 1→0.5→1)
 
 ### Epochs
 
@@ -379,7 +379,7 @@ Animation: `evo-pulse` 1.5s infinite (opacity 1→0.5→1)
 |-----|------|-------|-----------------|
 | 1 | 2013 | iDrDex | dexter, vault, kyc, certificates |
 | 2 | 2018 | HADLEYLAB | hadleylab, med, onco, mammo, mammochat, medchat, oncochat, evidence |
-| 3 | 2023 | CANONIC | foundation, magic, design, programming, idioms, sectors, evo, shows, transcripts |
+| 3 | 2023 | CANONIC | foundation, magic, design, programming, idioms, sectors, intel, shows, transcripts |
 | 4 | 2025 | APPLE | chat, shop, vaas, faas, coin, wallet, credit, worktalk, lawchat, finchat, operations, reserves |
 | 5 | ∞ | DISTRIBUTED | federation |
 
@@ -460,8 +460,8 @@ Results dropdown:
 | overlay-show | 0.35s | ease | Full-screen overlays |
 | dock-bounce | 0.2s | cubic-bezier(0.34, 1.56, 0.64, 1) | Dock item hover |
 | graph-fit | 600ms | -- | Network camera moves |
-| graph-fit-slow | 1000ms | easeInOutCubic | EVO camera moves |
-| evo-pulse | 1.5s | infinite | Current epoch dot |
+| graph-fit-slow | 1000ms | easeInOutCubic | INTEL camera moves |
+| intel-pulse | 1.5s | infinite | Current epoch dot |
 | level-up | 0.5s | -- | Score increase celebration |
 | bar-fill | 0.8s | ease | Progress bar transition |
 
@@ -497,12 +497,12 @@ Everything in MAGIC composes from three visual primitives:
 |-----------|------------------|
 | COIN | Dock items. Level badges. Score rings. Progress bars. |
 | CHAT | Chat overlay. Scope chat. Message bubbles. Input bars. |
-| EVO | Timeline. Transport dots. Epoch reveals. Physics expansion. |
+| INTEL | Timeline. Transport dots. Epoch reveals. Physics expansion. |
 
 ```
 COIN = how you see value
 CHAT = how you interact
-EVO  = how it changes over time
+INTEL  = how it changes over time
 ```
 
 ---
@@ -527,7 +527,7 @@ Rule: min/max. Mobile = CHAT. Desktop = GALAXY.
 2. DESIGN MUST support dark and light themes via CSS custom properties.
 3. Glass morphism MUST use backdrop-filter blur. No solid backgrounds on overlays.
 4. All colors MUST derive from the category palette or level colors. No ad-hoc colors.
-5. Animations MUST be under 1s for interactions, under 5s for EVO transitions.
+5. Animations MUST be under 1s for interactions, under 5s for INTEL transitions.
 6. DESIGN MUST be expressible in both CSS (web) and SwiftUI (native) without translation loss.
 7. The galaxy graph MUST be the primary view. Chat MUST be an overlay, not a replacement.
 8. Every visual element MUST map to a LANGUAGE primitive. If it doesn't have governance meaning, remove it.
