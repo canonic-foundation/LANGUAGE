@@ -382,8 +382,8 @@ A belief is VALID when:
 | Destination | Path | Description |
 |-------------|------|-------------|
 | MAGIC | canonic-magic/APPLE/ | CANONIC ∩ LANGUAGE ∩ LEARNING |
-| SHOP | canonic-shop/ | Commerce surface (planned) |
-| OPS | canonic-operations/ | Operations surface (planned) |
+| SHOP | canonic-foundation/SHOP/ | Commerce surface (planned) |
+| OPS | canonic-magic/ | Operations surface (planned) |
 | RESERVES | canonic-reserves/ | Financial reserves (planned) |
 | SECTORS | canonic-sectors/ | Sector verticals (planned) |
 | FOUNDATION | ./ (self) | Governance specs |
