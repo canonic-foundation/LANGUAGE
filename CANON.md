@@ -385,7 +385,7 @@ A belief is VALID when:
 | SHOP | canonic-foundation/SHOP/ | Commerce surface (planned) |
 | OPS | canonic-magic/ | Operations surface (planned) |
 | RESERVES | canonic-reserves/ | Financial reserves (planned) |
-| SECTORS | canonic-sectors/ | Sector verticals (planned) |
+| SECTORS | canonic-foundation/SECTORS | Sector verticals (planned) |
 | FOUNDATION | ./ (self) | Governance specs |
 
 ### Foundation Hub Cards
