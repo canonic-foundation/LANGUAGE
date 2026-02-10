@@ -414,10 +414,10 @@ A belief is VALID when:
 
 | Component | Purpose |
 |-----------|---------|
-| .STORE/ | Series A page, investment pitch |
+| SHOP/ | Commerce surface, investment pitch |
 | FOUNDATION/ | Hub page, navigation, MAGIC display |
 | BOOKS/ | THE MAGIC SERIES content |
-| LANGUAGE/ | Defines evolution |
+| LANGUAGE/ | Defines LANGUAGE + EVOLUTION |
 | LEARNING/ | Federated compute |
 
 ---
