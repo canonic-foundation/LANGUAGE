@@ -1,0 +1,8 @@
+# GALAXY: .md only. Everything else is MAGIC.
+*
+!*.md
+!.gitignore
+!NOTICE
+!LICENSE
+!CNAME
+!.gitkeep
