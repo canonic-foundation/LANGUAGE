@@ -1,6 +1,6 @@
 # DESIGN — CANON
 
-inherits: /CANONIC/LANGUAGE/
+inherits: canonic-foundation/LANGUAGE
 spec: DESIGN
 tier: ENTERPRISE
 version: 2026-02
