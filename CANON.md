@@ -381,21 +381,21 @@ A belief is VALID when:
 
 | Destination | Path | Description |
 |-------------|------|-------------|
-| MAGIC | canonic-magic/APPLE/ | CANONIC ∩ LANGUAGE ∩ LEARNING |
-| SHOP | canonic-foundation/SHOP/ | Commerce surface (planned) |
-| OPS | canonic-magic/ | Operations surface (planned) |
-| RESERVES | canonic-reserves/ | Financial reserves (planned) |
-| SECTORS | canonic-foundation/SECTORS | Sector verticals (planned) |
+| MAGIC | canonic-magic/ | CANONIC ∩ LANGUAGE ∩ LEARNING |
+| SHOP | canonic-foundation/SHOP/ | Commerce surface |
+| OPS | canonic-magic/OPERATIONS.md | Operations spec |
+| SECTORS | canonic-foundation/SECTORS/ | Sector verticals |
 | FOUNDATION | ./ (self) | Governance specs |
 
-### Foundation Hub Cards
+### Foundation SPA Axioms
 
-| Card | Description |
-|------|-------------|
-| LANGUAGE | The spec |
-| GOVERNANCE | Rules |
-| DAO | Future |
-| DOCS | Knowledge |
+| Axiom | Scope | Description |
+|-------|-------|-------------|
+| LANGUAGE | canonic-foundation/LANGUAGE/ | The spec |
+| PROGRAMMING | canonic-foundation/PROGRAMMING/ | The bindings |
+| SECTORS | canonic-foundation/SECTORS/ | The verticals |
+| SHOP | canonic-foundation/SHOP/ | The commerce |
+| IDIOMS | canonic-foundation/IDIOMS/ | The translations |
 
 ---
 
@@ -414,11 +414,11 @@ A belief is VALID when:
 
 | Component | Purpose |
 |-----------|---------|
-| SHOP/ | Commerce surface, investment pitch |
-| FOUNDATION/ | Hub page, navigation, MAGIC display |
-| BOOKS/ | THE MAGIC SERIES content |
-| LANGUAGE/ | Defines LANGUAGE + EVOLUTION |
-| LEARNING/ | Federated compute |
+| LANGUAGE/ | The spec — defines LANGUAGE + LEARNING |
+| PROGRAMMING/ | The bindings — 19 language wrappers |
+| SECTORS/ | The verticals — HEALTH, FINANCE, DEFENSE, etc. |
+| SHOP/ | The commerce — COIN + CHAT + investment pitch |
+| IDIOMS/ | The translations — human language governance |
 
 ---
 

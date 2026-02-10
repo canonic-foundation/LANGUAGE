@@ -78,4 +78,12 @@ Cite: `85760b2 — Feb 8, 2026`
 
 ---
 
+### 010 EVOLUTION → INTELLIGENCE SERVICE
+
+EVOLUTION evolved from being part of the LANGUAGE spec to being an INTELLIGENCE SERVICE. INTEL → INTELLIGENCE → EVOLUTION. The service tracks scope history, epoch timelines, and galaxy data. EVOLUTION.md files are intelligence artifacts served by the EVOLUTION service — not governance files, not spec components. E bit = EVIDENCE (IDF exists), not EVOLUTION. The LANGUAGE defines LANGUAGE + LEARNING. EVOLUTION serves INTEL.
+
+Cite: `2026-02-10`
+
+---
+
 *EVOLUTION | LANGUAGE | LEARNINGS*
