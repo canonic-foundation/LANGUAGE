@@ -56,13 +56,4 @@ LANGUAGE/
 
 ---
 
-## Mission
-
-```
-Guard the secret. Spread the MAGIC.
-min / max
-```
-
----
-
 *CANON | LANGUAGE | FOUNDATION*
