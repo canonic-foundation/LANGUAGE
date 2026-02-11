@@ -41,7 +41,7 @@
 | VERTICAL | Domain implementation; programming or sector idiom |
 | COIN | Composing primitive; service = SHOP |
 | CHAT | Composing primitive; service = TALK |
-| INTEL | Composing primitive; D+E+T+R = what you KNOW; service = INTELLIGENCE |
+| INTEL | Composing primitive; knowledge dimensions = what you KNOW; service = INTELLIGENCE |
 | SHOP | Service of COIN; distributes COIN; COIN → SHOP → WORK |
 | TALK | Service of CHAT; validated communication; CHAT + INTEL |
 | INTELLIGENCE | Service of INTEL; reads, validates, learns; EVOLUTION serves scopes |
@@ -52,7 +52,6 @@
 | AXIOM | One sentence truth; absolute declaration |
 | BOUNDARY | Non-negotiable limit |
 | INHERITANCE | Beliefs and constraints from parent scope |
-| CLOSURE | Access level; Books 01 + 06 |
 | COMMUNITY | Access level; Books 01 + 02 + 06 |
 | BUSINESS | Access level; Books 01 + 02 + 03 + 06 |
 | ENTERPRISE | Access level; Books 01-06 |
@@ -65,11 +64,11 @@
 | LEDGER | Immutable record; timestamped audit trail |
 | FFI | Foreign Function Interface; how wrappers call the runtime |
 | WRAPPER | Thin language binding to the runtime; no logic, just interface |
-| MAGIC | 255-bit governance runtime; D+E+T+R+O+S+L+LANG = 255 |
+| MAGIC | 255-bit governance runtime; 8 dimensions, fully compliant |
 | IDF | Invention Disclosure Format; hash-linked chain record |
 | GRADIENT | Delta between previous and current bits; measures governance change |
 | GENESIS | First IDF in a chain; origin block |
-| TIER | Access level derived from bits; CLOSURE → COMMUNITY → BUSINESS → ENTERPRISE → AGENT → MAGIC |
+| TIER | Access level derived from bits; NONE → COMMUNITY → BUSINESS → ENTERPRISE → AGENT → MAGIC |
 | DIMENSION | One of 8 governance axes; each is a single bit in the 255-bit field |
 | GOVERNANCE | The protocol; rules + enforcement + validation |
 | PITCH | Composable copilot; present |

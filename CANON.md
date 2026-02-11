@@ -2,7 +2,7 @@
 
 inherits: --
 spec: FOUNDATION
-tier: DAO
+tier: MAGIC
 version: 2026-02
 copyright: 2026 Dexter Hadley, MD/PhD
 license: Apache 2.0
