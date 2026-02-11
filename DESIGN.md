@@ -467,20 +467,9 @@ Results dropdown:
 
 ---
 
-## The 8 Governance Bits — Visual
+## Governance Visual
 
-Each bit renders as a 16x16 square or a row in the detail panel.
-
-| Bit | Hex | Name | Visual ON | Visual OFF |
-|-----|-----|------|-----------|------------|
-| D | 0x01 | Belief | `#00ff88` + text-shadow 8px | --dim, 40% opacity |
-| E | 0x02 | Evidence | same | same |
-| T | 0x04 | History | same | same |
-| R | 0x08 | Community | same | same |
-| O | 0x10 | Practice | same | same |
-| S | 0x20 | Structure | same | same |
-| L | 0x40 | Learning | same | same |
-| LANG | 0x80 | Language | same | same |
+Tiers render as score rings. MAGIC determines the tier.
 
 ```
 ON  = green glow. The scope has answered this question.

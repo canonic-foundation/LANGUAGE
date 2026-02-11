@@ -1,7 +1,7 @@
-# FOUNDATION — CANON
+# LANGUAGE — CANON
 
-inherits: --
-spec: FOUNDATION
+inherits: foundation
+spec: LANGUAGE
 tier: MAGIC
 version: 2026-02
 copyright: 2026 Dexter Hadley, MD/PhD
@@ -437,18 +437,6 @@ MAGIC    = CANONIC ∩ LANGUAGE ∩ LEARNING
 COMPLIANT = MAGIC
 0        = BLOCKED
 ```
-
----
-
-## Constraints
-
-1. LANGUAGE MUST be minimal.
-2. LEARNING MUST federate.
-3. NO execution. Only definition.
-4. Beliefs MUST be explicit — write them in CANON.md or they don't exist.
-5. Validation MUST be automated — if you can't test it, you can't enforce it.
-6. No logic in wrappers — all execution happens in the runtime.
-7. Enterprise developers get access. Runtime is never visible.
 
 ---
 
