@@ -56,4 +56,13 @@ LANGUAGE/
 
 ---
 
+## Constraints
+
+1. MUST define all governance terms in VOCAB.md
+2. MUST maintain TRIAD integrity (CANON.md + VOCAB.md + README.md)
+3. SHOULD express structure through DESIGN — visual language is governance
+4. MUST NOT introduce ungoverned vocabulary into active governance files
+
+---
+
 *CANON | LANGUAGE | FOUNDATION*
