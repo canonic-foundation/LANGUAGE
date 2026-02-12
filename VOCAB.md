@@ -68,7 +68,7 @@
 | IDF | Invention Disclosure Format; hash-linked chain record |
 | GRADIENT | Delta between previous and current bits; measures governance change |
 | GENESIS | First IDF in a chain; origin block |
-| TIER | Access level derived from bits; NONE → COMMUNITY → BUSINESS → ENTERPRISE → AGENT → MAGIC |
+| TIER | Access level derived from bits; NONE → COMMUNITY → BUSINESS → ENTERPRISE → AGENT → FULL |
 | DIMENSION | One of 8 governance axes; each is a single bit in the 255-bit field |
 | GOVERNANCE | The protocol; rules + enforcement + validation |
 | PITCH | Composable copilot; present |

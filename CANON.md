@@ -2,7 +2,7 @@
 
 inherits: canonic-foundation
 spec: LANGUAGE
-tier: MAGIC
+tier: FULL
 version: 2026-02
 
 ---
