@@ -32,7 +32,7 @@ Cite: `5afd00d — Feb 6, 2026`
 
 ### 004 Lifecycle Cleanup
 
-Stripped DETROS encoding from public LANGUAGE. PUBLIC = TRUST. The lifecycle boundary was drawn — what lives inside the runtime stays inside the runtime. The public surface became clean, auditable, and honest.
+Lifecycle cleanup. PUBLIC = TRUST. What lives inside the runtime stays inside the runtime. The public surface became clean, auditable, and honest.
 
 Cite: `6f8aa29 — Feb 6, 2026`
 
