@@ -7,7 +7,7 @@
 | LEARNING | The adaptive layer; patterns that accumulate over time |
 | MAGIC | CANONIC ∩ LANGUAGE ∩ LEARNING; validation; complete governance |
 | FOUNDATION | The Linux Foundation of CANONIC; stewards of LANGUAGE; guardians of governance |
-| VaaS | Validation as a Service; black box input/output scoring |
+| MAGIC | Validation runtime; 8-dimension 255-bit enforcement |
 | CANON.md | Declaration file; beliefs, mission, principles, boundaries |
 | VOCAB.md | Controlled vocabulary; types and term definitions |
 | LEARNING.md | Adaptive knowledge; patterns recognized over time |
@@ -41,11 +41,10 @@
 | VERTICAL | Domain implementation; programming or sector idiom |
 | COIN | Composing primitive; service = SHOP |
 | CHAT | Composing primitive; service = TALK |
-| INTEL | Composing primitive; knowledge dimensions = what you KNOW; service = INTELLIGENCE |
+| INTEL | Composing primitive; knowledge dimensions = what you KNOW |
 | SHOP | Service of COIN; distributes COIN; COIN → SHOP → WORK |
 | TALK | Service of CHAT; validated communication; CHAT + INTEL |
-| INTELLIGENCE | Service of INTEL; reads, validates, learns; EVOLUTION serves scopes |
-| EVOLUTION | INTELLIGENCE service; epoch history, galaxy timeline |
+| LEARNING | Pattern accumulation, epoch history. INTEL. |
 | DAO | Decentralized autonomous organization; future governance of FOUNDATION |
 | VITAE | ORG identity; USER = ORG = VITAE |
 | THE MAGIC SERIES | 8 books teaching governance through 8 questions |
